@@ -5,7 +5,7 @@
 
 * 🌍Я живу в Москве.
 * ✉️Связаться со мной можно по адресу [mardonberdiiev10@gmail.com .](mailto:mardonberdiyev10@gmail.com)[](mailto:mardonberdiyev10@gmail.com)
-* 🚀 Сейчас я работаю над [интернет-магазином Artstore.](http://peaceful-gecko-f9ad70.netlify.app)[](http://peaceful-gecko-f9ad70.netlify.app)
+* 🚀 Сейчас я работаю над [интернет-магазином Artstore.](https://musical-cranachan-8babda.netlify.app/)[](https://musical-cranachan-8babda.netlify.app/)
 * 🧠 Я изучаю ReactJS
 * 🤝 Я открыт к сотрудничеству над интересными проектами.
 
