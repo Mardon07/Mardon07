@@ -13,7 +13,7 @@
 
 | <a href="https://app.rs.school/certificate/aa59ubvk">JS/FE 20232Q1 (JAVASCRIPT)</a> |
 |--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| <img src="https://github.com/Mardon07/Mardon07/assets/certificate.png" alt="certificate"/>   |
+| <img src="https://github.com/Mardon07/Mardon07/blob/main/assets/certificate.png?raw=true" alt="certificate"/>   |
 
 
 
